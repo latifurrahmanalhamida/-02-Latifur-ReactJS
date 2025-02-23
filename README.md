@@ -7,8 +7,8 @@ KELAS : TI - 4K RPL<br>
 Langkah-langkah Praktikum <br>
 
 1. Membuat Komponen React <br>
-   ![image](https://github.com/user-attachments/assets/3b544917-fb28-41da-8d66-5009f96dc59d)  <br>
-   ![image](https://github.com/user-attachments/assets/8674c1d0-dde9-4a2d-83cd-eb06f3d9f64d)  <br>
+![image](https://github.com/user-attachments/assets/3b544917-fb28-41da-8d66-5009f96dc59d)  <br>
+![image](https://github.com/user-attachments/assets/8674c1d0-dde9-4a2d-83cd-eb06f3d9f64d)  <br>
 Hasilnya <br>
 ![image](https://github.com/user-attachments/assets/1bc088f3-9b10-454f-a82b-27ae00ca3bc2)  <br>
 
@@ -31,6 +31,18 @@ Hasilnaya <br>
 ![image](https://github.com/user-attachments/assets/648ece01-f1b2-438a-b13a-ff5b4cfe3b62)  <br>
 Hasilnya <br>
 ![image](https://github.com/user-attachments/assets/a5f1bdaf-ca3b-49eb-a934-d57330d2b4f8)  <br>
+
+--Tugas--  <br>
+![image](https://github.com/user-attachments/assets/cb344d8a-2ad9-4c20-abd7-f53ef3d1ffa8)  <br>
+![image](https://github.com/user-attachments/assets/c2eec356-5521-4a5f-97a9-92cdbf2a5499)  <br>
+Hasilnya <br>
+![Screenshot 2025-02-23 192917](https://github.com/user-attachments/assets/94ee574d-0906-4a95-b575-d591e1fa83d8) <br>
+![image](https://github.com/user-attachments/assets/727be88b-a6d5-42cd-9d3f-a56bd9efef7b)   <br>
+
+
+
+
+
 
 
 
